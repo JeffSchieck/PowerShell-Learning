@@ -1,7 +1,3 @@
-
-connect-azaccount 
-
-
 $Index = "03"
 $resourceGroup = "acme-prod-va-sigt-$($Index)-rg"
 $location = "usgovvirginia"
